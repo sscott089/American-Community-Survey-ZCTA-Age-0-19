@@ -11,7 +11,7 @@ library(dplyr)
 library(tidyr)
 
 #Add your key here
-census_api_key("be1056a855b0fc0c9133e9685ebff35458937f91", install = FALSE)
+census_api_key("Add your API key here", install = FALSE)
 
 # ACS5 2023 variables - includes both genders (total)
 age_zcta_raw <- get_acs(
