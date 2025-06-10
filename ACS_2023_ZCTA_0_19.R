@@ -10,7 +10,7 @@ library(tidycensus)
 library(dplyr)
 library(tidyr)
 
-#Add your key here
+#Add your API key
 census_api_key("Add your API key here", install = FALSE)
 
 # ACS5 2023 variables - includes both genders (total)
