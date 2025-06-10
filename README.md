@@ -7,3 +7,5 @@ S0101_C01_002E = AGE UNDER 5
 S0101_C01_003E = AGE 5-9
 S0101_C01_004E = AGE 10-14
 S0101_C01_021E = AGE 15-17
+
+VARIABLES: https://api.census.gov/data/2023/acs/acs5/subject/variables.html
